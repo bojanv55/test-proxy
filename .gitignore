@@ -1,0 +1,13 @@
+.settings/
+/log/
+/target/
+.classpath
+.project
+.idea/
+/*.iml
+/bin
+*~
+
+#Java stuff
+*.class
+hs_err_pid*
